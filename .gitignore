@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# Arduino IDE / CLI temporary folders
+build/
+dist/
+.tmp/
+
+# macOS metadata in sketch folders
+**/.DS_Store
